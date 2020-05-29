@@ -187,3 +187,7 @@ ashajia：最近在拜读南先生的作品，但网上下载的电子版本参�
 感谢观看（~~打赏~~）！
 
 <img src="image/赞赏码.jpg" width="200" alt="<-这个是打赏码，国内有时裂图，点我也能打开（如果真想打赏的话/(ㄒoㄒ)/~~）">
+
+___
+
+<div style="width: 350px; height: 57px; border: 1px solid #BBBBBB;"><a href="https://ctext.org/zh"><img src="https://ctext.org/logos/ctplogo5.gif" border="0" alt="中国哲学书电子化计划" /></a></div>
