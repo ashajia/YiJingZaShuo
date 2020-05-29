@@ -35,6 +35,7 @@ def format_content(content_p_list, content_span_list):
 		content_p_string = content_p_string.replace('\n','').replace('\r','')
 		for span in content_span_list:
 			if span.text is None:
+				# 通过span对象的find属性找到span包围的子节点
 				if span.find('img') is not None:
 					img_url = base_url + span.find('img').attrib['src']
 					md_img = '![bagua](https://cors.zme.ink/{})'.format(img_url)
